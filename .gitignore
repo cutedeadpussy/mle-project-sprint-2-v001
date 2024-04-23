@@ -163,4 +163,12 @@ cython_debug/
 # Env
 .env*
 
+# data
 *.csv
+*.py_mycache
+
+# Mac OS
+.DS_Store
+
+# Another cache
+cache/
