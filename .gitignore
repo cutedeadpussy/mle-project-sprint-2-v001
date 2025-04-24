@@ -166,7 +166,8 @@ cython_debug/
 # data
 *.csv
 *.py_mycache
-
+*.pkl
+*.db
 # Mac OS
 .DS_Store
 
