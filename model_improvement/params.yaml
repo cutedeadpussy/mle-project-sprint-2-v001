@@ -1,0 +1,7 @@
+# params.yaml
+index_col: 'id'
+target_col: 'price'
+one_hot_drop: 'if_binary'
+n_splits: 3
+metrics: ['r2', 'neg_mean_absolute_percentage_error']
+n_jobs: -1
